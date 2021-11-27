@@ -12,3 +12,4 @@ for i in l: #input olan listenin her bir elemanını listemi fonksiyonuna gönde
 
 l.reverse() # en son listenin kendisi ters çevrilir
 print(l)
+
