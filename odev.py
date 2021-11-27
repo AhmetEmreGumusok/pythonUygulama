@@ -13,3 +13,4 @@ def listemi(item): # bu fonksiyon recursive çalışır
 for i in l: #input olan listenin her bir elemanını listemi fonksiyonuna gönderir
     listemi(i)
 print(duzList)
+
